@@ -1,6 +1,6 @@
 package Pod::Weaver::Section::BugsRT;
 
-# ABSTRACT: Add a BUGS pod section
+# ABSTRACT: Add a BUGS pod section for rt.cpan.org
 
 use Moose;
 
