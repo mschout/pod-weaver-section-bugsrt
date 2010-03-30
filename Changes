@@ -1,4 +1,6 @@
 Revision history for Pod::Weaver::Section::BugsRT
 
 {{$NEXT}}
+
+0.50  2010-03-30
     - initial release
