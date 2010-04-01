@@ -1,6 +1,8 @@
 Revision history for Pod::Weaver::Section::BugsRT
 
 {{$NEXT}}
+
+0.52  2010-03-31
     - fix compile test
 
 0.51  2010-03-30
